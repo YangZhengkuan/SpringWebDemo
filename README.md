@@ -2,11 +2,11 @@
 
 基于Mysql数据库[如使用其他数据库请替换对应的jar包，并修改db.properties配置文件]
 
-使用Java版本为1.8
-使用Tomcat版本为8.0
-使用的Spring版本为4.3.6
-使用的Hibernate版本为5.2.8
-使用的Hibernate Validator版本为5.4.0
+	使用Java版本为1.8
+	使用Tomcat版本为8.0
+	使用的Spring版本为4.3.6
+	使用的Hibernate版本为5.2.8
+	使用的Hibernate Validator版本为5.4.0
 
 1. 加入Jar包
 
